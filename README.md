@@ -1,4 +1,5 @@
 # Projekt-inzynierski / Engineering-thesis 2024
+
 # Box-Counting Dimension for Image Analysis
 
 ## 1. Overview
