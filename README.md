@@ -1,4 +1,4 @@
-<img width="303" height="397" alt="image" src="https://github.com/user-attachments/assets/2c076277-bda1-4c3e-9b8b-e184dcb0d762" /># Projekt-inzynierski 2023
+# Projekt-inzynierski 2023
 # Box-Counting Dimension for Image Analysis
 
 ## 1. Problem
