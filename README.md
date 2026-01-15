@@ -1,6 +1,4 @@
 # Projekt-inzynierski 2023
-Wymiar pudełkowy i narzędzie do jego wyznaczania
-
 # Box-Counting Dimension for Image Analysis
 
 ## 1. Problem
@@ -25,6 +23,10 @@ Zaimplementowano algorytm box-counting polegający na:
 
 ## 5. Przykładowe wyniki
 <img width="498" height="310" alt="image" src="https://github.com/user-attachments/assets/ff33979f-fe11-47ca-9e50-35dd04a6c108" />
+<img width="450" height="267" alt="image" src="https://github.com/user-attachments/assets/f122f349-565d-4dca-97ed-ecc7ad8c6b1d" />
+<img width="283" height="362" alt="image" src="https://github.com/user-attachments/assets/586e2928-556c-4486-9fd0-a381cfae73b6" />
+
+
 
 
 ## 6. Wnioski i ograniczenia
